@@ -1,6 +1,8 @@
 package cn.yel.commonutils;
 
-
+/**
+ * @author Yel
+ */
 import java.util.regex.Pattern;
 /**
  * 账户相关属性验证工具
