@@ -6,6 +6,11 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
+/**
+ * 
+ * @author Yel
+ *
+ */
 public class CalendarUtils {
 
 	static Calendar global_calendar = Calendar.getInstance();
