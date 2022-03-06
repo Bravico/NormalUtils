@@ -32,7 +32,6 @@ public class CsvUtils {
 		return result;
 	}
 	
-	
 	public static List<String[]> readCsvBasic(String filename) throws Exception {
 		ArrayList<String[]> result = new ArrayList<String[]>();
 		CSVReader reader = new CSVReader(new FileReader(filename));
